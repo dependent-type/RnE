@@ -1,0 +1,1 @@
+type family $B$ over $A$ in context $\Gamma$ 를 생각하자. 

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"be1479ba60059903","type":"file","file":"HoTT/졸업논문/Type Theory/1.1 Input–output behaviour of functions/람다 함수 (Lambda function).md","x":-328,"y":-76,"width":688,"height":576},
+		{"id":"a1bc02754c572f7e","x":873,"y":212,"width":647,"height":649,"type":"file","file":"HoTT/졸업논문/Type Theory/1.2 The essence of functions/계산 규칙 (Evaluation rule).md"},
+		{"id":"6ecb482e1051efba","x":846,"y":-560,"width":700,"height":600,"type":"file","file":"HoTT/졸업논문/Type Theory/1.2 The essence of functions/구성 원리 (Construction principles).md"},
+		{"id":"0db3a5d83b97c742","x":1920,"y":-650,"width":680,"height":780,"type":"file","file":"HoTT/졸업논문/Type Theory/1.3 Lambda-terms/람다 항 (Lambda term).md"},
+		{"id":"b0bd87fa502f050e","x":2780,"y":-740,"width":680,"height":960,"type":"file","file":"HoTT/졸업논문/Type Theory/1.3 Lambda-terms/부분항 (Subterm).md"}
+	],
+	"edges":[
+		{"id":"a5ed1b80e594ebfb","fromNode":"be1479ba60059903","fromSide":"right","toNode":"6ecb482e1051efba","toSide":"left","label":"그래서 표현이 뭔데?"},
+		{"id":"6e2a1cc3f7725b2f","fromNode":"be1479ba60059903","fromSide":"right","toNode":"a1bc02754c572f7e","toSide":"left","label":"함수의 계산을 어떻게 하느냐?"},
+		{"id":"673a4686f82255bd","fromNode":"6ecb482e1051efba","fromSide":"right","toNode":"0db3a5d83b97c742","toSide":"left","label":"제대로 된 정의를\n내놓아라"},
+		{"id":"f89af2f4fff0a895","fromNode":"0db3a5d83b97c742","fromSide":"right","toNode":"b0bd87fa502f050e","toSide":"left"}
+	]
+}
